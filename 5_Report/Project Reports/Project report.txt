@@ -1,0 +1,39 @@
+OBJECTIVE
+The objective of the project is to develop a system that automates the processes and activities of a travel and tourism agency.
+ The purpose is to design a system using which one can perform all operations related to travel bookings.
+
+EXISTING SYSTEM
+ In the present system a customer has to approach various packages and to find details of places and to book tickets.
+ This often requires a lot of time and effort.
+ It is tedious for a customer to plan a particular journey and have it executed properly
+
+PROPOSED SYSTEM
+ The proposed system is a web based application and maintains a centralized repository of all related information.
+ The system allows one to easily access the relevant information and make necessary travel arrangements.
+ Users can decide about places they want to visit and make bookings online for travel 
+
+FEASIBILITY STUDY
+FEASIBILITY REPORT
+Preliminary investigation examines project feasibility, the likelihood the system will be useful to the organization. 
+The main objective of the feasibility study is to test the Technical, Operational and Economical feasibility for adding new modules and debugging old running system.
+ All systems are feasible if they are given unlimited resources and infinite time.
+ There are aspects in the feasibility study portion of the preliminary investigation:
+ Technical Feasibility
+ Operation Feasibility
+ Economical Feasibility
+TECHNICAL FEASIBILITY:
+The technical issue usually raised during the feasibility stage of the investigation includes the following:
+Does the necessary technology exist to do what is suggested?
+ Do the proposed equipments have the technical capacity to hold the data required to use the new system?
+ Will the proposed system provide adequate response to inquiries, regardless of the number or location of users?
+ Can the system be upgraded if developed?
+ Are there technical guarantees of accuracy, reliability, ease of access and data security?
+OPERATIONAL FEASIBILITY:
+Proposed projects are beneficial only if they can be turned out into information systems, which will meet the organization’s operating requirements. Operational feasibility aspects of the project are to be taken as an important part of the project implementation. Some of the important issues raised are to test the operational feasibility of a project includes the following: -
+ Is there sufficient support for the management from the users?
+ Will the system be used and work properly if it is being developed and implemented?
+ Will there be any resistance from the user that will undermine the possible application benefits?
+This system is targeted to be in accordance with the above-mentioned issues. Beforehand, the management issues and user requirements have been taken into consideration. So there is no question of resistance from the users that can undermine the possible application benefits.
+The well-planned design would ensure the optimal utilization of the computer resources and would help in the improvement of performance status.
+ECONOMIC FEASIBILITY:
+A system can be developed technically and that will be used if installed must still be a good investment for the organization. In the economical feasibility, the development cost in creating the system is evaluated against the ultimate benefit derived from the new systems. Financial benefits must equal or exceed the costs. The system is economically feasible. It does not require any additional hardware or software.
