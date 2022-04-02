@@ -15,6 +15,12 @@ The Tourism Management System is implemented by C programming. It is as same as 
 | --- | --- | --- |
 | HR01 | Project working on windows and linux | Implemented |
 | HR02 | C programming | Implemented |
-| HR03 |  | Implemented |
+| HR03 | OTP verification | Future |
+## Low Level Requirement
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LR01 | Only user can select tour packages | Implemented |
+| LR02 | Booking tickets by selecting gender and age of the passengers | Implemented |
+| LR03 | studying tour destination | Future |
 
 
