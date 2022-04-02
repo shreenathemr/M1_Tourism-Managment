@@ -6,3 +6,8 @@ codacy badge
 codiga badge
 ![Codiga Badge](https://api.codiga.io/project/32408/status/svg)
 ![Codiga_Badge](https://api.codiga.io/project/32408/score/svg)
+# Aim
+- Booking tour packages
+- Operation of ragestration process
+- Finalizing the tour package
+- Payment process
